@@ -27,7 +27,7 @@ The ratio of vine customers that gave one star ratings were 0.01 compared to 0.1
 customers.
 
 Check the following link to see full txt file and Appendix with tables:
-
+https://github.com/GR8505/Big_Data/blob/master/Analysis.txt
 
 ---------------------------------------------------------------------------------------------------
 © 2020 GitHub, Inc.
