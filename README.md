@@ -49,7 +49,7 @@ Preprocessing and Exploratory Data Analysis was performed on Google Collaborator
 (https://colab.research.google.com/drive/1xBgf2RPK_tayPEsWlSUWyJHcQQcuF7Ed?usp=sharing) highlights all the 
 steps to attain the following results.
 
-![]()
+![](https://github.com/GR8505/Big_Data/blob/master/Images/D1.png)
 
 
 ---------------------------------------------------------------------------------------------------
