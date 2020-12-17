@@ -5,9 +5,9 @@
 -------------------------------------------------------------------------------------------------
 
 **Key Findings**
-1) There is a higher number of non-vine customers
-2) Non-vine customers had the highest number of Total Votes and Helpful Votes, as there were a total of 1,781,596 non-vine customers compared 
-to just 4,290 vine customers.  However, both vine and non-vine customers provide similar average 
+1) In the video games category, there is a total of just 4,290 vine customers compared to 
+   1,781,596 non-vine customers.
+2) Non-vine customers recorded the highest number of Total Votes and Helpful Votes.  However, both vine and non-vine customers provide similar average 
 ratings of 4.07 and 4.06, respectively.
 
 Based on my findings, it is not surprising to see that non-vine customers had the highest number 
