@@ -30,13 +30,6 @@ Check the following [link](https://github.com/GR8505/Big_Data/blob/master/Analys
 text file and Appendix with tables:
 
 
-Amazon Vine invites the most trusted reviewers on Amazon to post opinions about new and pre-release 
-items to help their fellow customers make informed purchase decisions. Amazon invites customers to
-become Vine Voices based on their reviewer rank, which is a reflection of the quality and helpfulness 
-of their reviews as judged by other Amazon customers.
-The program was created to provide customers with more information including honest and unbiased 
-feedback from some of Amazon's most trusted reviewers.
-
 ## Resources
 ---------------------------------------------------------------------------------------------------
 * pyspark
@@ -47,13 +40,16 @@ feedback from some of Amazon's most trusted reviewers.
 
 ## Data
 ---------------------------------------------------------------------------------------------------
-Obtained from AWS S3 bucket file
-https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
+The data was obtained from AWS S3 bucket [file](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
 
 
-## Coding: Google Collaboratory
+## ETL and EDA Process
 ---------------------------------------------------------------------------------------------------
-https://colab.research.google.com/drive/1xBgf2RPK_tayPEsWlSUWyJHcQQcuF7Ed?usp=sharing
+Preprocessing and Exploratory Data Analysis was performed on Google Collaboratory.  The following [link]
+(https://colab.research.google.com/drive/1xBgf2RPK_tayPEsWlSUWyJHcQQcuF7Ed?usp=sharing) highlights all the 
+steps to attain the following results.
+
+![]()
 
 
 ---------------------------------------------------------------------------------------------------
