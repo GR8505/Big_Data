@@ -1,6 +1,6 @@
 # Big Data Analysis: Amazon Vine vs Non-Vine Customers
 ## Video Games Category
-![]()
+![](https://github.com/GR8505/Big_Data/blob/master/Images/VideoGames.jpg)
 
 -------------------------------------------------------------------------------------------------
 
@@ -43,14 +43,14 @@ text file and Appendix with tables:
 
 ## Data
 ---------------------------------------------------------------------------------------------------
-The data was obtained from AWS S3 bucket [file](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
+The data was obtained from AWS S3 bucket [file](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz).
 
 
 ## ETL and EDA Process
 ---------------------------------------------------------------------------------------------------
-Preprocessing and Exploratory Data Analysis was performed on Google Collaboratory.  The following [link]
-(https://colab.research.google.com/drive/1xBgf2RPK_tayPEsWlSUWyJHcQQcuF7Ed?usp=sharing) highlights all the 
-steps to attain the following results.
+Preprocessing and Exploratory Data Analysis was performed on Google Collaboratory.  The following 
+[link](https://colab.research.google.com/drive/1xBgf2RPK_tayPEsWlSUWyJHcQQcuF7Ed?usp=sharing) highlights 
+all the steps to attain the following results.
 
 ![](https://github.com/GR8505/Big_Data/blob/master/Images/D1.png)
 
