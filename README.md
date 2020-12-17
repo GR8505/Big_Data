@@ -1,6 +1,7 @@
 # Big Data Analysis: Amazon Vine vs Non-Vine Customers
 ## Video Games Category
 <img src="https://github.com/GR8505/Big_Data/blob/master/Images/VideoGames.jpg" alt="drawing" width="400"/>
+
 -------------------------------------------------------------------------------------------------
 
 ## Executive Overview
