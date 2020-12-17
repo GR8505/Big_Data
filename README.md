@@ -1,4 +1,5 @@
-# Big_Data: Video Games Analysis
+# Big Data Analysis: Amazon Vine vs Non-Vine Customers
+## Video Games Category
 -------------------------------------------------------------------------------------------------
 
 ## Executive Overview
