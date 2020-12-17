@@ -28,7 +28,7 @@ from some of Amazon's most trusted reviewers.
 
 Check the following [link](https://github.com/GR8505/Big_Data/blob/master/Analysis.txt) to see full 
 text file and Appendix with tables:
-https://github.com/GR8505/Big_Data/blob/master/Analysis.txt
+
 
 Amazon Vine invites the most trusted reviewers on Amazon to post opinions about new and pre-release 
 items to help their fellow customers make informed purchase decisions. Amazon invites customers to
