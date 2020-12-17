@@ -1,19 +1,13 @@
-# Big_Data
+# Big_Data: Video Games Analysis
+-------------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------
-## ANALYSIS 
--------------------------------------------------------------------------------------------------
-I used the following S3 Bucket for my project.  It was video games analysis:
-https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
-
--------------------------------------------------------------------------------------------------
 ## Executive Overview
 -------------------------------------------------------------------------------------------------
 
-Based on my findings, it is not surprising to see that non-vine customers had the highest number 
-of Total Votes and Helpful Votes, as there are a total of 1,781,596 non-vine customers compared 
-to just 4,290 vine customers for video games.  However, both vine and non-vine customers provide 
-similar average ratings of 4.07 and 4.06, respectively.
+**Key Findings**
+1) Non-vine customers had the highest number of Total Votes and Helpful Votes, as there were a total of 1,781,596 non-vine customers compared 
+to just 4,290 vine customers.  However, both vine and non-vine customers provide similar average 
+ratings of 4.07 and 4.06, respectively.
 
 However, looking at the final table in the appendix, I saw that the number of Helpful Votes per 
 customer is slightly higher for vine customers (2.35) compared to non-vine customers (2.26).
@@ -28,6 +22,26 @@ customers.
 
 Check the following link to see full txt file and Appendix with tables:
 https://github.com/GR8505/Big_Data/blob/master/Analysis.txt
+
+
+## Resources
+---------------------------------------------------------------------------------------------------
+* pyspark
+* pyspark-sql
+* Amazon Web Services (AWS)
+* Google Collaboratory
+
+
+## Data
+---------------------------------------------------------------------------------------------------
+Obtained from AWS S3 bucket file
+https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz
+
+
+## Coding: Google Collaboratory
+---------------------------------------------------------------------------------------------------
+https://colab.research.google.com/drive/1xBgf2RPK_tayPEsWlSUWyJHcQQcuF7Ed?usp=sharing
+
 
 ---------------------------------------------------------------------------------------------------
 © 2020 GitHub, Inc.
