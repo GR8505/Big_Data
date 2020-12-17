@@ -1,5 +1,7 @@
 # Big Data Analysis: Amazon Vine vs Non-Vine Customers
 ## Video Games Category
+![]()
+
 -------------------------------------------------------------------------------------------------
 
 ## Executive Overview
@@ -10,6 +12,7 @@ Amazon Vine invites are the most trusted reviewers on Amazon who post opinions a
 items to help their fellow customers make informed purchase decisions. Customers become Vine Voices based 
 on their reviewer rank. This program was created to provide customers with more honest and unbiased feedback 
 from some of Amazon's most trusted reviewers.
+![]()
 
 **Key Findings**
 1) In the video games category, there is a total of just 4,290 vine customers compared to 
